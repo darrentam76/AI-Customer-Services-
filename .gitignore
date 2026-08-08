@@ -1,0 +1,12 @@
+# 隱私金鑰與環境變數檔案
+.env
+*.env
+
+# Python 虛擬環境與快取檔
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit 設定
+.streamlit/secrets.toml
